@@ -15,9 +15,7 @@ function juice() {
     })
 }
 
-function juice2() {
-
-  
+function juice2() { 
     //setTimeout(()=>{ console.log('5) 5초대기 juice')},2000);
 
     return new Promise( (resolve,reject)=>{
